@@ -1,7 +1,6 @@
 # Hacktoberfest-PRO-prep
 
-To Commit
-
+## Instructions
 ```
 STEP 1: Fork this repository to your personal account.
 ```
