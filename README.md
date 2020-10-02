@@ -11,7 +11,8 @@ STEP 2: Go to Names.md
 ```
 
 ```
-STEP 3: Add your Github username and a short description about you. [we will build a wonderful communtiy as well]
+STEP 3: Add your Github username and a short description about you. [we will build a wonderful community
+in the process as well]
 ```
 
 ```
