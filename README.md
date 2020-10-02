@@ -10,7 +10,7 @@ STEP 1: Fork this repository to your personal account.
 STEP 2: Go to Names.md
 ```
 
-#### We will build a wonderful community in this process.
+We will build a wonderful community in this process.
 
 ```
 STEP 3: Add your Github username and a short description about you. 
